@@ -1,0 +1,47 @@
+# Origem: dados_adm.txt
+Nome: carlos, E-mail: 23, Senha: 23
+Nome: carlos, E-mail: 2303, Senha: 23
+Nome: Carlos Abelha, E-mail: ce23032003@gmail.com, Senha: 2303
+
+# Origem: dados_cliente.txt
+Nome: carlos, E-mail: carlos, Senha: 213, CPF: 235246, Telefone: 25235235, Endereço: sgdgsg
+Nome: Pedro, E-mail: pe, Senha: dro, CPF: 2342234235, Telefone: 2352324625, Endereço: AAA
+Nome: Carlos, E-mail: carlos, Senha: carlos, CPF: 123, Telefone: 123, Endereço: tal
+Nome: leo, E-mail: leo, Senha: leo, CPF: 12345, Telefone: 1234, Endereço: tal
+
+# Origem: dados_pedido.txt
+Número: 1, Cliente: carlos, Pedidos: [Xuxu - R$13.00], Total do Pedido: R$13.00, Hora do Pedido: 2023-12-12 21:21:23
+Número: 2, Cliente: carlos, Pedidos: [Pizza - R$50.00], Total do Pedido: R$50.00, Hora do Pedido: 2023-12-13 18:53:20
+Número: 3, Cliente: carlos, Pedidos: [Xuxu - R$13.00], Total do Pedido: R$13.00, Hora do Pedido: 2023-12-13 18:53:47
+Número: 4, Cliente: carlos, Pedidos: [Pizza - R$50.00], Total do Pedido: R$50.00, Hora do Pedido: 2023-12-13 18:55:43
+Número: 5, Cliente: carlos, Pedidos: [Xuxu - R$13.00], Total do Pedido: R$13.00, Hora do Pedido: 2023-12-13 18:58:32
+Número: 5, Cliente: carlos, Pedidos: [Xuxu - R$13.00], [Sim - R$13.00], Total do Pedido: R$13.00, Hora do Pedido: 2023-12-13 18:58:34
+Número: 5, Cliente: carlos, Pedidos: [Xuxu - R$13.00], [Sim - R$13.00], [Ceviche - R$45.00], Total do Pedido: R$58.00, Hora do Pedido: 2023-12-13 18:58:41
+Número: 6, Cliente: leo, Pedidos: [Picanha - R$40.00], Total do Pedido: R$40.00, Hora do Pedido: 2023-12-13 19:54:48
+Número: 6, Cliente: leo, Pedidos: [Picanha - R$40.00], [Burrito - R$60.00], Total do Pedido: R$100.00, Hora do Pedido: 2023-12-13 19:54:55
+Número: 7, Cliente: Carlos, Pedidos: [Pizza - R$50.00], Total do Pedido: R$50.00, Hora do Pedido: 2023-12-13 20:00:46
+Número: 8, Cliente: Carlos, Pedidos: [Pizza - R$50.00], Total do Pedido: R$50.00, Hora do Pedido: 2023-12-13 20:02:21
+Número: 9, Cliente: Carlos, Pedidos: [Pizza - R$50.00], Total do Pedido: R$50.00, Hora do Pedido: 2023-12-13 20:03:48
+
+# Origem: dados_entrega.txt
+Número: 1, Status de Entrega: Entregue, Data de Entrega: 2023-12-13 18:25:34
+Número: 2, Status de Entrega: Entregue, Data de Entrega: 2023-12-13 18:53:25
+Número: 3, Status de Entrega: Não entregue
+Número: 4, Status de Entrega: Entregue, Data de Entrega: 2023-12-13 18:55:48
+Número: 5, Status de Entrega: Entregue, Data de Entrega: 2023-12-13 18:59:01
+Número: 6, Status de Entrega: Entregue, Data de Entrega: 2023-12-13 19:55:35
+Número: 9, Status de Entrega: Entregue, Data de Entrega: 2023-12-13 20:03:53
+
+# Origem: dados_pratos.txt
+Panqueca, 20, Massa de panqueca com guizado, Brasileiro
+Lasanha, 30, muita massa, salgado
+Pizza, 50,  pizza, salgado
+Banana frita, 10,  banana frita na manteiga, Agridoce
+Açaí com Calabresa, 23,  Açaí puro com calabresa frita e farinha, Paraense
+Xuxu, 13,  xuxu com molho branco, Brasileiro
+Guacamole, 30,  creme de abacate temperado, mexicano
+Ceviche, 45,  peixe cru marinaado com limão, Peruano
+Alfajor, 8,  Bolcha recheada com doce de leite, Argentino
+Picanha, 40,  Brasileiro, brasil
+Burrito, 60,  Carne, Mexicano
+

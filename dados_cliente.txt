@@ -1,0 +1,4 @@
+Nome: carlos, E-mail: carlos, Senha: 213, CPF: 235246, Telefone: 25235235, Endereço: sgdgsg
+Nome: Pedro, E-mail: pe, Senha: dro, CPF: 2342234235, Telefone: 2352324625, Endereço: AAA
+Nome: Carlos, E-mail: carlos, Senha: carlos, CPF: 123, Telefone: 123, Endereço: tal
+Nome: leo, E-mail: leo, Senha: leo, CPF: 12345, Telefone: 1234, Endereço: tal

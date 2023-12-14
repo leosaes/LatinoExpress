@@ -1,0 +1,8 @@
+Tacos, 20, Tortilhas recheadas com carne guacamole salsa e queijo, México
+Arepas, 10, Pãezinhos de massa de milho recheados com queijo carne e abacate, Venezuela
+Guacamole, 30,  Creme de abacate temperado, México
+Ceviche, 45,  Peixe cru marinado em suco de limão cebola pimenta e coentro, Peru
+Alfajor, 8,  Bolcha recheada com doce de leite, Argentina
+Feijoada, 33,  Feijão preto carne de porco e linguiça, Brasil
+Coca-Cola, 5,  Refrigerante, Bebidas
+

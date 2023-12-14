@@ -1,0 +1,16 @@
+Número: 1, Cliente: carlos, Pedidos: [Xuxu - R$13.00], Total do Pedido: R$13.00, Hora do Pedido: 2023-12-12 21:21:23
+Número: 2, Cliente: carlos, Pedidos: [Pizza - R$50.00], Total do Pedido: R$50.00, Hora do Pedido: 2023-12-13 18:53:20
+Número: 3, Cliente: carlos, Pedidos: [Xuxu - R$13.00], Total do Pedido: R$13.00, Hora do Pedido: 2023-12-13 18:53:47
+Número: 4, Cliente: carlos, Pedidos: [Pizza - R$50.00], Total do Pedido: R$50.00, Hora do Pedido: 2023-12-13 18:55:43
+Número: 5, Cliente: carlos, Pedidos: [Xuxu - R$13.00], Total do Pedido: R$13.00, Hora do Pedido: 2023-12-13 18:58:32
+Número: 5, Cliente: carlos, Pedidos: [Xuxu - R$13.00], [Sim - R$13.00], Total do Pedido: R$13.00, Hora do Pedido: 2023-12-13 18:58:34
+Número: 5, Cliente: carlos, Pedidos: [Xuxu - R$13.00], [Sim - R$13.00], [Ceviche - R$45.00], Total do Pedido: R$58.00, Hora do Pedido: 2023-12-13 18:58:41
+Número: 6, Cliente: leo, Pedidos: [Picanha - R$40.00], Total do Pedido: R$40.00, Hora do Pedido: 2023-12-13 19:54:48
+Número: 6, Cliente: leo, Pedidos: [Picanha - R$40.00], [Burrito - R$60.00], Total do Pedido: R$100.00, Hora do Pedido: 2023-12-13 19:54:55
+Número: 7, Cliente: Carlos, Pedidos: [Pizza - R$50.00], Total do Pedido: R$50.00, Hora do Pedido: 2023-12-13 20:00:46
+Número: 8, Cliente: Carlos, Pedidos: [Pizza - R$50.00], Total do Pedido: R$50.00, Hora do Pedido: 2023-12-13 20:02:21
+Número: 9, Cliente: Carlos, Pedidos: [Pizza - R$50.00], Total do Pedido: R$50.00, Hora do Pedido: 2023-12-13 20:03:48
+Número: 10, Cliente: Pedro, Pedidos: [Tacos - R$20.00], Total do Pedido: R$20.00, Hora do Pedido: 2023-12-14 00:50:27
+Número: 10, Cliente: Pedro, Pedidos: [Tacos - R$20.00], [Coca-cola - R$20.00], Total do Pedido: R$20.00, Hora do Pedido: 2023-12-14 00:50:31
+Número: 11, Cliente: Pedro, Pedidos: [Lasanha - R$30.00], Total do Pedido: R$30.00, Hora do Pedido: 2023-12-14 00:51:39
+Número: 11, Cliente: Pedro, Pedidos: [Lasanha - R$30.00], [Pizza - R$50.00], Total do Pedido: R$80.00, Hora do Pedido: 2023-12-14 00:51:44

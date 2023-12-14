@@ -1,0 +1,7 @@
+Número: 1, Status de Entrega: Entregue, Data de Entrega: 2023-12-13 18:25:34
+Número: 2, Status de Entrega: Entregue, Data de Entrega: 2023-12-13 18:53:25
+Número: 3, Status de Entrega: Não entregue
+Número: 4, Status de Entrega: Entregue, Data de Entrega: 2023-12-13 18:55:48
+Número: 5, Status de Entrega: Entregue, Data de Entrega: 2023-12-13 18:59:01
+Número: 6, Status de Entrega: Entregue, Data de Entrega: 2023-12-13 19:55:35
+Número: 9, Status de Entrega: Entregue, Data de Entrega: 2023-12-13 20:03:53
